@@ -1,0 +1,1 @@
+c++ -o zad6 CountryMoneyRulesEN.cpp OrderSubGroup.cpp CountryMoneyRulesPL.cpp Payment.cpp Currency.cpp PaymentChannelInternet.cpp Customer.cpp PaymentChannelPostOffice.cpp Item.cpp PaymentCurrencyAmount.cpp ItemsSet.cpp main.cpp Order.cpp OrderPackage.cpp

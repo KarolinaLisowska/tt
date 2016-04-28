@@ -1,0 +1,53 @@
+[icodello@liza ~/c/zadanie6]$ ./zad6
+Creating order # 1
+Creating subgroup for itempattern stolik
+Added itemSet stolik q:20 p:125
+Creating subgroup for itempattern szafa
+Added itemSet szafa q:3 p:500
+Creating order # 2
+Creating subgroup for itempattern lustro
+Added itemSet lustro q:7 p:100
+Creating subgroup for itempattern szafa
+Added itemSet szafa q:3 p:450
+Creating order # 3
+Creating subgroup for itempattern szafa
+Added itemSet szafa q:7 p:400
+Creating order # 4
+Creating subgroup for itempattern lustro
+Added itemSet lustro q:15 p:120
+Creating subgroup for itempattern szafa
+Added itemSet szafa q:1 p:800
+Creating order # 5
+Creating subgroup for itempattern lustro
+Added itemSet lustro q:1 p:80
+Creating subgroup for itempattern szafa
+Added itemSet szafa q:1 p:600
+Added itemSet lustro q:2 p:90
+Creating order # 6
+Creating subgroup for itempattern lustro
+Added itemSet lustro q:123 p:50
+Creating subgroup for itempattern szafa
+Added itemSet szafa q:1 p:540
+Added itemSet lustro q:1 p:100
+About to pay for order # 6
+Payment for amount 15617 PLN not possible
+Omiotek paid in total: 0
+About to pay for order # 4
+Sending via internet amount; 988 GBP
+Connection problem - waiting 5 sec...
+Sending via internet amount; 988 GBP
+About to pay for order # 5
+Sending via internet amount; 326.8 GBP
+Connection problem - waiting 5 sec...
+Sending via internet amount; 326.8 GBP
+Smith paid in total: 8304
+About to pay for order # 1
+Payment for amount 9200 PLN not possible
+About to pay for order # 2
+Sending via internet amount; 4715 PLN
+Connection problem - waiting 5 sec...
+Sending via internet amount; 4715 PLN
+About to pay for order # 3
+Payment for amount 6440 PLN not possible
+Tokar paid in total: 4715
+[icodello@liza ~/c/zadanie6]$
